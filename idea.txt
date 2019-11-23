@@ -1,0 +1,2 @@
+This is a simple game creation usong python framework
+if you want to use this code then you have to learn about core python completely
